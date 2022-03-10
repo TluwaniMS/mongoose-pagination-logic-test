@@ -1,151 +1,151 @@
 const Doctors = [
   {
-    firstName: "Dean",
-    lastName: "Hill",
+    name: "Dean",
+    surname: "Hill",
     gender: "Male",
     email: "dean@mock.com"
   },
   {
-    firstName: "Lufuno",
-    lastName: "Sekgothe",
+    name: "Lufuno",
+    surname: "Sekgothe",
     gender: "Female",
     email: "lufuno@mock.com"
   },
   {
-    firstName: "Refilwe",
-    lastName: "Phago",
+    name: "Refilwe",
+    surname: "Phago",
     gender: "Female",
     email: "refilwe@mock.com"
   },
   {
-    firstName: "Seba",
-    lastName: "Sibika",
+    name: "Seba",
+    surname: "Sibika",
     gender: "Female",
     email: "seba@mock.com"
   },
   {
-    firstName: "Katlego",
-    lastName: "Mamani",
+    name: "Katlego",
+    surname: "Mamani",
     gender: "Female",
     email: "katlego@mock.com"
   },
   {
-    firstName: "Idah",
-    lastName: "Leseme",
+    name: "Idah",
+    surname: "Leseme",
     gender: "Female",
     email: "idah@mock.com"
   },
   {
-    firstName: "Jessica",
-    lastName: "Shadung",
+    name: "Jessica",
+    surname: "Shadung",
     gender: "Female",
     email: "jessica@mock.com"
   },
   {
-    firstName: "Tshego",
-    lastName: "Seoka",
+    name: "Tshego",
+    surname: "Seoka",
     gender: "Male",
     email: "tshego@mock.com"
   },
   {
-    firstName: "Jethro",
-    lastName: "Mokgohloa",
+    name: "Jethro",
+    surname: "Mokgohloa",
     gender: "Male",
     email: "jethro@mock.com"
   },
   {
-    firstName: "Kgaogelo",
-    lastName: "Munyangane",
+    name: "Kgaogelo",
+    surname: "Munyangane",
     gender: "Female",
     email: "kgaogelo@mock.com"
   },
   {
-    firstName: "Mmadi",
-    lastName: "Ndlovu",
+    name: "Mmadi",
+    surname: "Ndlovu",
     gender: "Male",
     email: "mmadi@mock.com"
   },
   {
-    firstName: "Abigail",
-    lastName: "Sekhosana",
+    name: "Abigail",
+    surname: "Sekhosana",
     gender: "Female",
     email: "abigail@mock.com"
   },
   {
-    firstName: "Mmakosha",
-    lastName: "Deagrela",
+    name: "Mmakosha",
+    surname: "Deagrela",
     gender: "Female",
     email: "mmakosha@mock.com"
   },
   {
-    firstName: "Dorcus",
-    lastName: "Maruma",
+    name: "Dorcus",
+    surname: "Maruma",
     gender: "Female",
     email: "dorcus@mock.com"
   },
   {
-    firstName: "Denzel",
-    lastName: "Mophosho",
+    name: "Denzel",
+    surname: "Mophosho",
     gender: "Male",
     email: "denzel@mock.com"
   },
   {
-    firstName: "Lerato",
-    lastName: "Sehume",
+    name: "Lerato",
+    surname: "Sehume",
     gender: "Female",
     email: "lerato@mock.com"
   },
   {
-    firstName: "Londokuhle",
-    lastName: "Ndala",
+    name: "Londokuhle",
+    surname: "Ndala",
     gender: "Male",
     email: "londokuhle@mock.com"
   },
   {
-    firstName: "Thovhedzo",
-    lastName: "Maosa",
+    name: "Thovhedzo",
+    surname: "Maosa",
     gender: "Male",
     email: "thovhedzo@mock.com"
   },
   {
-    firstName: "Reneilwe",
-    lastName: "Dikana",
+    name: "Reneilwe",
+    surname: "Dikana",
     gender: "Female",
     email: "reneilwe@mock.com"
   },
   {
-    firstName: "Philicia",
-    lastName: "Sothobe",
+    name: "Philicia",
+    surname: "Sothobe",
     gender: "Female",
     email: "philicia@mock.com"
   },
   {
-    firstName: "Eddy",
-    lastName: "Manaka",
+    name: "Eddy",
+    surname: "Manaka",
     gender: "Male",
     email: "eddy@mock.com"
   },
   {
-    firstName: "Mathibela",
-    lastName: "Serumula",
+    name: "Mathibela",
+    surname: "Serumula",
     gender: "Male",
     email: "mathibela@mock.com"
   },
   {
-    firstName: "Mpho",
-    lastName: "Leshabane",
+    name: "Mpho",
+    surname: "Leshabane",
     gender: "Male",
     email: "mpho@mock.com"
   },
   {
-    firstName: "Lehlohonolo",
-    lastName: "Sebata",
+    name: "Lehlohonolo",
+    surname: "Sebata",
     gender: "Male",
     email: "lehlohonolo@mock.com"
   },
   {
-    firstName: "Mpumi",
-    lastName: "Khoza",
+    name: "Mpumi",
+    surname: "Khoza",
     gender: "Male",
     email: "mpumi@mock.com"
   }
