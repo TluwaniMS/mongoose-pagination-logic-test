@@ -1,13 +1,15 @@
-const { model, Schema } = require("mongoose");
+const { DoctorModel } = require("../database-models/doctor");
 
-const DoctorSchema = new Schema({
-  name: { type: String, required: true },
-  surname: { type: String, required: true },
-  gender: { type: String, required: true },
-  specialty: { type: String, required: true },
-  email: { type: String, required: true }
-});
+const createDoctors = async (doctors) => {
+  await DoctorModel.insertMany(doctors);
 
-const DoctorModel = model("Doctor", DoctorSchema);
+  return `Operation completed successfully.`;
+};
 
-module.exports = { DoctorModel };
+const getAllDoctors = async () => {
+  const doctors = await DoctorModel.find({});
+
+  return doctors;
+};
+
+module.exports = { getAllDoctors, createDoctors };
