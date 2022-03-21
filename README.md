@@ -11,6 +11,10 @@ This is a basic node-js server, that I created to learn the basic ways of implem
 ## NB!
 Please make sure you have a running instance of Mongodb.
 
+* Step 1:
+
+Switch to the projects root directory and run "npm install" to install the rquired packages.
+
 # Dependencies:
 * EXPRESS
 * MONGOOSE
